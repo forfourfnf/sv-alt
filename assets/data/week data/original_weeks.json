@@ -16,6 +16,7 @@
             "backgroundColor":[249, 207, 81],
             "difficulties": [
                 ["easy", "default/easy"],
+                ["normal", "default/normal"],
                 ["hard", "default/hard"]
             ]
         },
@@ -31,10 +32,11 @@
                 "bf",
                 "gf"
             ],
-            "weekTitle": "Calm",
+            "weekTitle": "Daddy Dearest",
             "backgroundColor":[249, 207, 81],
             "difficulties": [
                 ["easy", "default/easy"],
+                ["normal", "default/normal"],
                 ["hard", "default/hard"]
             ]
         },
@@ -50,10 +52,11 @@
                 "bf",
                 "gf"
             ],
-            "weekTitle": "Craziness",
+            "weekTitle": "Spooky Month",
             "backgroundColor":[249, 207, 81],
             "difficulties": [
                 ["easy", "default/easy"],
+                ["normal", "default/normal"],
                 ["hard", "default/hard"]
             ]
         },
@@ -69,10 +72,11 @@
                 "bf",
                 "gf"
             ],
-            "weekTitle": "Immortality",
+            "weekTitle": "Pico",
             "backgroundColor":[249, 207, 81],
             "difficulties": [
                 ["easy", "default/easy"],
+                ["normal", "default/normal"],
                 ["hard", "default/hard"]
             ]
         },
@@ -82,19 +86,59 @@
                 "Satin Panties",
                 "High",
                 "M.I.L.F"
-                "Cocoa"
-                "Eggnog"
             ],
             "characters": [
                 "mom",
                 "bf",
                 "gf"
             ],
-            "weekTitle": "The Two Unbeatables",
+            "weekTitle": "Mommy Must Murder",
             "backgroundColor":[249, 207, 81],
             "difficulties": [
                 ["easy", "default/easy"],
+                ["normal", "default/normal"],
                 ["hard", "default/hard"]
             ]
         },
-},
+        {
+            "imagePath": "week5",
+            "songs": [
+                "Cocoa",
+                "Eggnog",
+                "Winter Horrorland"
+            ],
+            "characters": [
+                "parents",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Red Snow",
+            "backgroundColor":[249, 207, 81],
+            "difficulties": [
+                ["easy", "default/easy"],
+                ["normal", "default/normal"],
+                ["hard", "default/hard"]
+            ]
+        },
+        {
+            "imagePath": "week6",
+            "songs": [
+                "Senpai",
+                "Roses",
+                "Thorns"
+            ],
+            "characters": [
+                "senpai",
+                "bf",
+                "gf"
+            ],
+            "weekTitle": "Hating Simulator Ft. Moawling",
+            "backgroundColor":[249, 207, 81],
+            "difficulties": [
+                ["easy", "default/easy"],
+                ["normal", "default/normal"],
+                ["hard", "default/hard"]
+            ]
+        }
+    ]
+}
