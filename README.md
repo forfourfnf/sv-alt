@@ -2,6 +2,8 @@
 
 https://forfourfnf.github.io/sv-alt/
 
+# Song List
+
 Bopeebo - Zen
 
 Fresh - Demagogue
@@ -26,3 +28,10 @@ Eggnog - Cosmic Cessation
 
 Winter Horrorland - Cheater Suffering
 
+# Difficulties
+
+Easy - 4k mania
+
+Normal - Less Power
+
+Hard - Canon
